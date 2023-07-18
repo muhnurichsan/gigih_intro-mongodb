@@ -1,0 +1,62 @@
+[
+  {
+    "_id": { "$oid": "64b53ca9241a2b0fab81f135" },
+    "title": "Sial",
+    "album": "Mahalini Karya",
+    "artists": ["Mahalini"]
+  },
+  {
+    "_id": { "$oid": "64b53e27241a2b0fab81f136" },
+    "title": "Pandangan Pertama",
+    "album": "For Your Life",
+    "artists": ["RAN"]
+  },
+  {
+    "_id": { "$oid": "64b57ef4e0f2093f12ec2df9" },
+    "title": "love you twice",
+    "album": "this is me",
+    "artists": ["Yunjin", "Nu Kim"]
+  },
+  {
+    "_id": { "$oid": "64b57ef4e0f2093f12ec2dfa" },
+    "title": "Always",
+    "album": "Always",
+    "artists": ["Daniel Caesar"]
+  },
+  {
+    "_id": { "$oid": "64b57ef4e0f2093f12ec2dfb" },
+    "title": "Best Part",
+    "album": "Daniel Caesar Collection",
+    "artists": ["Daniel Caesar", "H.E.R"]
+  },
+  {
+    "_id": { "$oid": "64b57ef4e0f2093f12ec2dfc" },
+    "title": "Not You",
+    "album": "Be the walker",
+    "artists": ["Alan Walker", "Emma Steinbakken"]
+  },
+  {
+    "_id": { "$oid": "64b57ef4e0f2093f12ec2dfd" },
+    "title": "Somebody's Pleasure",
+    "album": "this is aziz",
+    "artists": ["Aziz Hedra"]
+  },
+  {
+    "_id": { "$oid": "64b57ef6e0f2093f12ec2dfe" },
+    "title": "Cruel Summer",
+    "album": "Love",
+    "artists": ["Taylor Swift"]
+  },
+  {
+    "_id": { "$oid": "64b57ef6e0f2093f12ec2dff" },
+    "title": "Tak Segampang Itu",
+    "album": "Tak Segampang Itu",
+    "artists": ["Anggi Marito"]
+  },
+  {
+    "_id": { "$oid": "64b57ef6e0f2093f12ec2e00" },
+    "title": "Here With Me",
+    "album": "Petals of Thornes",
+    "artists": ["D4vd"]
+  }
+]
