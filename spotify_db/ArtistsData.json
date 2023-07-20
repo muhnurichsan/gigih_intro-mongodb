@@ -1,0 +1,62 @@
+[
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f01" },
+    "name": "RAN",
+    "genres": ["Pop"],
+    "dateOfBirth": { "$date": "1970-01-01T00:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f02" },
+    "name": "Stacey Ryan",
+    "genres": ["Pop"],
+    "dateOfBirth": { "$date": "2001-09-11T17:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f03" },
+    "name": "Padi",
+    "genres": ["Pop", "Rock", "R&B"],
+    "dateOfBirth": { "$date": "1978-10-10T17:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f04" },
+    "name": "Letto",
+    "genres": ["Pop"],
+    "dateOfBirth": { "$date": "2013-09-09T17:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f05" },
+    "name": "Pitbull",
+    "genres": ["Hip-Hop"],
+    "dateOfBirth": { "$date": "2022-01-08T00:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f06" },
+    "name": "Putri Ariani",
+    "genres": ["Pop"],
+    "dateOfBirth": { "$date": "2001-09-11T17:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f07" },
+    "name": "Nile Rodgers",
+    "genres": ["Pop", "Rock", "R&B"],
+    "dateOfBirth": { "$date": "1978-10-10T17:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f08" },
+    "name": "BTS",
+    "genres": ["K-Pop"],
+    "dateOfBirth": { "$date": "2013-09-09T17:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f09" },
+    "name": "NewJeans",
+    "genres": ["K-Pop"],
+    "dateOfBirth": { "$date": "2022-07-31T17:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b946620a5f3b4a8cc73f0a" },
+    "name": "Utada Hikaru",
+    "genres": ["J-Pop"],
+    "dateOfBirth": { "$date": "1990-01-07T17:00:00Z" }
+  }
+]
